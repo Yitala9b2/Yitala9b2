@@ -3,7 +3,7 @@
  <div id="badges">
   <br>
   
-  <a href='#'><img src="https://img.shields.io/badge/vkontakte-blue?logo=VK&logoColor=white" alt="vk Badge"/></a>
+  <a href='https://vk.com/id95257290'><img src="https://img.shields.io/badge/vkontakte-blue?logo=VK&logoColor=white" alt="vk Badge"/></a>
   <a href='#'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
   
   ### :hammer_and_wrench: Languages and Tools :
