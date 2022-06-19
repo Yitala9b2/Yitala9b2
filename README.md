@@ -1,4 +1,11 @@
 <div  id="header" align="center" >
+ <h1 align='center'>
+  Hi there 👋 I'm Vitaly 👨‍💻
+</h1>
+
+<p align='center'>
+  A frontend developer from Russia.
+</p>
  <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="500" />
  <div id="badges">
   <br>
