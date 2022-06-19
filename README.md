@@ -1,17 +1,17 @@
 <div  id="header" align="center" >
- <h1 align='center'>
+ <h1 >
   Hi there 👋 I'm Vitaly 👨‍💻
 </h1>
 
-<p align='center'>
+<p >
   A frontend developer from Russia.
 </p>
  <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="500" />
  <div id="badges">
   <br>
-   <p >📫 How to reach me:  
-    <a href='https://vk.com/id95257290'><img src="https://img.shields.io/badge/vkontakte-blue?logo=VK&logoColor=white" alt="vk Badge"/></a>
-  <a href='https://t.me/Yitala9b2'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
+   <p >📫 How to reach me:  <a href='https://vk.com/id95257290'><img src="https://img.shields.io/badge/vkontakte-blue?logo=VK&logoColor=white" alt="vk Badge"/></a> <a href='https://t.me/Yitala9b2'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
+   
+  
   </p>
   <br>
   <br><br>
