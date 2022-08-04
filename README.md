@@ -6,7 +6,9 @@
 <p>
   A frontend developer from Russia.
 </p>
+<div>
  <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="500" />
+ </div>
  <div id="badges">
   <br>
    <p>📫 How to reach me:  <a href='https://vk.com/id95257290'><img src="https://img.shields.io/badge/vkontakte-blue?logo=VK&logoColor=white" alt="vk Badge"/></a> <a href='https://t.me/Yitala9b2'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
