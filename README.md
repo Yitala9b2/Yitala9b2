@@ -7,7 +7,7 @@
   A frontend developer from Russia.
 </p>
 <div>
- <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="500" />
+ <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="300" />
  </div>
  <div id="badges">
   <br>
