@@ -11,7 +11,7 @@
  </div>
  <div id="badges">
   <br>
-   <p>📫 How to reach me:  <a href='https://api.whatsapp.com/send?phone=89260214140'><img src="https://img.shields.io/badge/whatsApp-darkgreen?logo=whatsApp&logoColor=white" alt="vk Badge"/></a> <a href='https://t.me/Yitala9b2'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
+   <p>📫 How to reach me:  <a href='https://api.whatsapp.com/send?phone=89262356627'><img src="https://img.shields.io/badge/whatsApp-darkgreen?logo=whatsApp&logoColor=white" alt="vk Badge"/></a> <a href='https://t.me/Yitala9b2'><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram Badge"/></a>
   </p>
   <br>
   <br>
