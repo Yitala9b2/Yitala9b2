@@ -31,7 +31,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
-   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
   </div>
 </div>
 </div>
