@@ -30,6 +30,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>
    
   </div>
 </div>
