@@ -1,10 +1,10 @@
 <div  id="header" align="center" >
  <h1>
-  Hi there 👋 I'm Vitaly 👨‍💻
+  Привет 👋 меня зовут Виталий 👨‍💻
 </h1>
 
 <p>
-  A frontend developer from Russia.
+  Фронтенд разработчик
 </p>
 <div>
  <img  src="https://media.giphy.com/media/KEZRMZ6NdioQvBbyRu/giphy.gif" width="300" />
