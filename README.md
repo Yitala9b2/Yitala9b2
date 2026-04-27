@@ -24,7 +24,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-plain.svg" title="redux" alt="zustand" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-plain.svg" title="zustand" alt="zustand" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next" alt="next" width="40" height="40"/>
      <img src="https://github.com/Yitala9b2/devicon/blob/master/icons/materialui/materialui-plain.svg" title="MUI" alt="MUI" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
